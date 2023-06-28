@@ -286,7 +286,7 @@ nav > p{
 
 /*Contact us section*/
 
-#contact-us{
+#contact{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -469,6 +469,7 @@ nav > p{
 
 #contact-form{
     display: flex;
+    justify-content: center;
     flex-direction: column;
     align-items: stretch;
     width: 300px;
