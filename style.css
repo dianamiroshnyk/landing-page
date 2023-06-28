@@ -93,19 +93,19 @@ nav > p{
     width: 300px;
 }
 
-#timeline-left > #event-2011{
+#year-l > #eleven{
     margin-top: 90px;
 }
 
-#timeline-left > #event-2013{
+#year-l > #thirteen{
     margin-top: 135px;
 }
 
-#timeline-right > #event-2012{
+#year-r > #twelve{
     margin-top: 170px;
 }
 
-#timeline-right > #event-2014{
+#year-r > #fourteen{
     margin-top: 210px;
 }
 
@@ -124,13 +124,13 @@ nav > p{
     margin-bottom: -10px;
 }
 
-.year-l{
+.year-left{
     text-align: right;
     font-weight: 100;
     font-size: 36px;
 }
 
-.year-r{
+.year-right{
     text-align: left;
     font-weight: 100;
     font-size: 36px;
@@ -141,19 +141,19 @@ nav > p{
     margin-top: 10px;
 }
 
-#about-team{
+.about-us{
     margin-top: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-#about-team > h3{
+.about-us > h3{
     font-size: 36px;
     font-weight: 100;
 }
 
-#about-team > p{
+.about-us > p{
     font-style: italic;
     color: grey;
 }
@@ -396,32 +396,32 @@ nav > p{
     width: 150px;
 }
 
-#timeline-left > #event-2011{
+#year-l > #eleven{
     margin-top: 100px;
 }
 
-#timeline-left > #event-2013{
+#year-l > #thirteen{
     margin-top: 183px;
 }
 
-#timeline-right > #event-2012{
+#year-r > #twelve{
     margin-top: 182px;
 }
 
-#timeline-right > #event-2014{
+#year-r > #fourteen{
     margin-top: 245px;
 }
 
-.year-l,
-.year-r{
+.year-left,
+.year-right{
     font-size: 18px;
 }
 
-.timeline-text{
+.about-text{
     font-size: 9px;
 }
 
-#about-team > h3{
+.about-us > h3{
     font-size: 24px;
 }
 
